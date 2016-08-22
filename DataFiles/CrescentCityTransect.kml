@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><name>fgmax1.kml</name>
+
+<Style id="Path">
+<LineStyle><color>FF00FFFF</color><width>3</width></LineStyle>
+<PolyStyle><color>00000000</color></PolyStyle>
+</Style>
+<Placemark><name>fgmax1</name>
+<description>  x1 = -124.186, x2 = -124.207
+  y1 = 41.735, y2 = 41.76</description>
+<styleUrl>#Path</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<altitudeMode>clampToGround</altitudeMode>
+<coordinates>
+
+-124.1860,41.7350,0.0000
+-124.2070,41.7600,0.0000
+
+</coordinates>
+</LineString>
+</Placemark>
+
+</Document>
+</kml>
