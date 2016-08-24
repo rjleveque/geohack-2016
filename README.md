@@ -6,7 +6,11 @@ geospatial data.
 
 **Notes:**
 
-- See `index.ipynb` for a list of notebooks.  
+- See <https://github.com/rjleveque/geohack-2016/issues>
+  for some possible projects.  Please add more!  Issue a pull request if you
+  want to contribute code or (small) data sets.
+
+- Open `index.ipynb` for a list of notebooks.  
 
 - The `Notebooks` directory contains some sample notebooks.
 
