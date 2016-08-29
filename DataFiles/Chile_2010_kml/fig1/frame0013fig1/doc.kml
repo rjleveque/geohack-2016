@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <GroundOverlay>
+      <name>frame0013fig1.png</name>
+      <Icon>
+        <href>frame0013fig1.png</href>
+      </Icon>
+      <LatLonBox>
+        <north>0.0</north>
+        <south>-60</south>
+        <east>-60.0</east>
+        <west>-120.0</west>
+      </LatLonBox>
+    </GroundOverlay>
+  </Document>
+</kml>

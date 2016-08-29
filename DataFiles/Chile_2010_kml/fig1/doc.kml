@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Sea Surface</name>
+    <open>0</open>
+    <Folder>
+      <name>Frames</name>
+      <NetworkLink>
+        <name>Frame 0</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 0
+UTC  : 2010-02-27T06:34:00+03:00
+File : frame0000fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 0
+UTC  : 2010-02-27T06:34:00+03:00
+File : frame0000fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T06:34:00+03:00</begin>
+          <end>2010-02-27T07:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0000fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 1</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 1800
+UTC  : 2010-02-27T07:04:00+03:00
+File : frame0001fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 1800
+UTC  : 2010-02-27T07:04:00+03:00
+File : frame0001fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T07:04:00+03:00</begin>
+          <end>2010-02-27T07:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0001fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 2</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 3600
+UTC  : 2010-02-27T07:34:00+03:00
+File : frame0002fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 3600
+UTC  : 2010-02-27T07:34:00+03:00
+File : frame0002fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T07:34:00+03:00</begin>
+          <end>2010-02-27T08:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0002fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 3</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 5400
+UTC  : 2010-02-27T08:04:00+03:00
+File : frame0003fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 5400
+UTC  : 2010-02-27T08:04:00+03:00
+File : frame0003fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T08:04:00+03:00</begin>
+          <end>2010-02-27T08:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0003fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 4</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 7200
+UTC  : 2010-02-27T08:34:00+03:00
+File : frame0004fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 7200
+UTC  : 2010-02-27T08:34:00+03:00
+File : frame0004fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T08:34:00+03:00</begin>
+          <end>2010-02-27T09:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0004fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 5</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 9000
+UTC  : 2010-02-27T09:04:00+03:00
+File : frame0005fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 9000
+UTC  : 2010-02-27T09:04:00+03:00
+File : frame0005fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T09:04:00+03:00</begin>
+          <end>2010-02-27T09:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0005fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 6</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 10800
+UTC  : 2010-02-27T09:34:00+03:00
+File : frame0006fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 10800
+UTC  : 2010-02-27T09:34:00+03:00
+File : frame0006fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T09:34:00+03:00</begin>
+          <end>2010-02-27T10:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0006fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 7</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 12600
+UTC  : 2010-02-27T10:04:00+03:00
+File : frame0007fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 12600
+UTC  : 2010-02-27T10:04:00+03:00
+File : frame0007fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T10:04:00+03:00</begin>
+          <end>2010-02-27T10:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0007fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 8</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 14400
+UTC  : 2010-02-27T10:34:00+03:00
+File : frame0008fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 14400
+UTC  : 2010-02-27T10:34:00+03:00
+File : frame0008fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T10:34:00+03:00</begin>
+          <end>2010-02-27T11:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0008fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 9</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 16200
+UTC  : 2010-02-27T11:04:00+03:00
+File : frame0009fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 16200
+UTC  : 2010-02-27T11:04:00+03:00
+File : frame0009fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T11:04:00+03:00</begin>
+          <end>2010-02-27T11:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0009fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 10</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 18000
+UTC  : 2010-02-27T11:34:00+03:00
+File : frame0010fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 18000
+UTC  : 2010-02-27T11:34:00+03:00
+File : frame0010fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T11:34:00+03:00</begin>
+          <end>2010-02-27T12:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0010fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 11</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 19800
+UTC  : 2010-02-27T12:04:00+03:00
+File : frame0011fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 19800
+UTC  : 2010-02-27T12:04:00+03:00
+File : frame0011fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T12:04:00+03:00</begin>
+          <end>2010-02-27T12:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0011fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 12</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 21600
+UTC  : 2010-02-27T12:34:00+03:00
+File : frame0012fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 21600
+UTC  : 2010-02-27T12:34:00+03:00
+File : frame0012fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T12:34:00+03:00</begin>
+          <end>2010-02-27T13:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0012fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 13</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 23400
+UTC  : 2010-02-27T13:04:00+03:00
+File : frame0013fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 23400
+UTC  : 2010-02-27T13:04:00+03:00
+File : frame0013fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T13:04:00+03:00</begin>
+          <end>2010-02-27T13:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0013fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 14</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 25200
+UTC  : 2010-02-27T13:34:00+03:00
+File : frame0014fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 25200
+UTC  : 2010-02-27T13:34:00+03:00
+File : frame0014fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T13:34:00+03:00</begin>
+          <end>2010-02-27T14:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0014fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 15</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 27000
+UTC  : 2010-02-27T14:04:00+03:00
+File : frame0015fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 27000
+UTC  : 2010-02-27T14:04:00+03:00
+File : frame0015fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T14:04:00+03:00</begin>
+          <end>2010-02-27T14:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0015fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 16</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 28800
+UTC  : 2010-02-27T14:34:00+03:00
+File : frame0016fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 28800
+UTC  : 2010-02-27T14:34:00+03:00
+File : frame0016fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T14:34:00+03:00</begin>
+          <end>2010-02-27T15:04:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0016fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 17</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 30600
+UTC  : 2010-02-27T15:04:00+03:00
+File : frame0017fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 30600
+UTC  : 2010-02-27T15:04:00+03:00
+File : frame0017fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T15:04:00+03:00</begin>
+          <end>2010-02-27T15:34:00+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0017fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+      <NetworkLink>
+        <name>Frame 18</name>
+        <Snippet maxLines="2"><![CDATA[<b><pre>Time : t = 32400
+UTC  : 2010-02-27T15:34:00+03:00
+File : frame0018fig1.png</pre></b>]]></Snippet>
+        <description><![CDATA[<b><pre><font style="font-size:10pt">Time : t = 32400
+UTC  : 2010-02-27T15:34:00+03:00
+File : frame0018fig1.png</font></pre></b>]]></description>
+        <TimeSpan>
+          <begin>2010-02-27T15:34:00+03:00</begin>
+          <end>2010-02-27T16:02:25+03:00</end>
+        </TimeSpan>
+        <Link>
+          <href>frame0018fig1/doc.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <ScreenOverlay>
+      <name>Colorbar</name>
+      <Icon>
+        <href>images/colorbarfig1.png</href>
+      </Icon>
+      <overlayXY x="0.025" xunits="fraction" y="0.05" yunits="fraction"/>
+      <screenXY x="0.025" xunits="fraction" y="0.05" yunits="fraction"/>
+    </ScreenOverlay>
+  </Document>
+</kml>

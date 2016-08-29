@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="comp_domain">
+      <PolyStyle>
+        <color>FF98644E</color>
+        <fill>1</fill>
+        <outline>0</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<style media="screen" type="text/css">pre {font-weight:bold;font-style:12pt}span.title {font-weight:bold;font-size:12pt} </style><center><span class="title">Computational Domain</span></center><pre>Location : x1 = $[x1], x2 = $[x2]
+           y1 = $[y1], y2 = $[y2]
+</pre>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="Path_region_00">
+      <LineStyle>
+        <color>FFFFFFFF</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000000</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<style media="screen" type="text/css">pre {font-weight:bold;font-style:12pt}span.title {font-weight:bold;font-size:12pt} </style><center><span class="title">$[name]</span></center><pre>Levels   : minlevel = $[minlevel], maxlevel = $[maxlevel]
+Time     : t1 = $[t1], t2 = $[t2]
+Location : x1 = $[x1], x2 = $[x2]
+           y1 = $[y1], y2 = $[y2]
+
+From (UTC) : $[tsbegin]
+To   (UTC) : $[tsend]</pre>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="Path_region_01">
+      <LineStyle>
+        <color>FFFFFFFF</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>000000</color>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<style media="screen" type="text/css">pre {font-weight:bold;font-style:12pt}span.title {font-weight:bold;font-size:12pt} </style><center><span class="title">$[name]</span></center><pre>Levels   : minlevel = $[minlevel], maxlevel = $[maxlevel]
+Time     : t1 = $[t1], t2 = $[t2]
+Location : x1 = $[x1], x2 = $[x2]
+           y1 = $[y1], y2 = $[y2]
+
+From (UTC) : $[tsbegin]
+To   (UTC) : $[tsend]</pre>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Computational Domain</name>
+      <visibility>0</visibility>
+      <Snippet maxLines="2"><![CDATA[<b><pre>x1 = -120, x2 = -60
+y1 = -60, y2 = 0
+</pre></b>]]></Snippet>
+      <styleUrl>#comp_domain</styleUrl>
+      <ExtendedData>
+        <Data name="x1">
+          <value>-120</value>
+        </Data>
+        <Data name="y1">
+          <value>-60</value>
+        </Data>
+        <Data name="x2">
+          <value>-60</value>
+        </Data>
+        <Data name="y2">
+          <value>0</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-120.0000,-60.0000,0.0000
+-60.0000,-60.0000,0.0000
+-60.0000,0.0000,0.0000
+-120.0000,0.0000,0.0000
+-120.0000,-60.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Region 0</name>
+      <visibility>0</visibility>
+      <Snippet maxLines="2"><![CDATA[<b><pre>minlevel = 3, maxlevel = 3
+t1 = 0, t2 = 10000
+
+From (UTC) : 2010-02-27T06:34:00+03:00
+To   (UTC) : 2010-02-27T09:20:40+03:00
+</pre></b>]]></Snippet>
+      <TimeSpan>
+        <begin>2010-02-27T06:34:00+03:00</begin>
+        <end>2010-02-27T09:20:40+03:00</end>
+      </TimeSpan>
+      <styleUrl>#Path_region_00</styleUrl>
+      <ExtendedData>
+        <Data name="minlevel">
+          <value>3</value>
+        </Data>
+        <Data name="maxlevel">
+          <value>3</value>
+        </Data>
+        <Data name="t1">
+          <value>0</value>
+        </Data>
+        <Data name="t2">
+          <value>10000</value>
+        </Data>
+        <Data name="x1">
+          <value>-85</value>
+        </Data>
+        <Data name="y1">
+          <value>-38</value>
+        </Data>
+        <Data name="x2">
+          <value>-72</value>
+        </Data>
+        <Data name="y2">
+          <value>-25</value>
+        </Data>
+        <Data name="tsbegin">
+          <value>2010-02-27T06:34:00+03:00</value>
+        </Data>
+        <Data name="tsend">
+          <value>2010-02-27T09:20:40+03:00</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-85.0000,-38.0000,0.0000
+-72.0000,-38.0000,0.0000
+-72.0000,-25.0000,0.0000
+-85.0000,-25.0000,0.0000
+-85.0000,-38.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Region 1</name>
+      <visibility>0</visibility>
+      <Snippet maxLines="2"><![CDATA[<b><pre>minlevel = 3, maxlevel = 3
+t1 = 8000, t2 = 26000
+
+From (UTC) : 2010-02-27T08:47:20+03:00
+To   (UTC) : 2010-02-27T13:47:20+03:00
+</pre></b>]]></Snippet>
+      <TimeSpan>
+        <begin>2010-02-27T08:47:20+03:00</begin>
+        <end>2010-02-27T13:47:20+03:00</end>
+      </TimeSpan>
+      <styleUrl>#Path_region_01</styleUrl>
+      <ExtendedData>
+        <Data name="minlevel">
+          <value>3</value>
+        </Data>
+        <Data name="maxlevel">
+          <value>3</value>
+        </Data>
+        <Data name="t1">
+          <value>8000</value>
+        </Data>
+        <Data name="t2">
+          <value>26000</value>
+        </Data>
+        <Data name="x1">
+          <value>-90</value>
+        </Data>
+        <Data name="y1">
+          <value>-30</value>
+        </Data>
+        <Data name="x2">
+          <value>-80</value>
+        </Data>
+        <Data name="y2">
+          <value>-15</value>
+        </Data>
+        <Data name="tsbegin">
+          <value>2010-02-27T08:47:20+03:00</value>
+        </Data>
+        <Data name="tsend">
+          <value>2010-02-27T13:47:20+03:00</value>
+        </Data>
+      </ExtendedData>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>-90.0000,-30.0000,0.0000
+-80.0000,-30.0000,0.0000
+-80.0000,-15.0000,0.0000
+-90.0000,-15.0000,0.0000
+-90.0000,-30.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="gauge_style">
+      <BalloonStyle>
+        <text><![CDATA[<style media="screen" type="text/css">pre {font-weight:bold;font-style:12pt}span.title {font-weight:bold;font-size:12pt} </style><base href="../../images/"/><center><span class="title">$[name]</span></center><pre>Time     : t1 = $[t1], t2 = $[t2]
+Location : x1 = $[x1], y1 = $[y1]
+</pre><center><img style="width:500" src="$[pngfile]"/></center><pre><b>File : $[pngfile]</pre>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Gauge 32412</name>
+      <Snippet><![CDATA[<pre><b>t1 = 0, t2 = 1e+10
+x1 = -86.392, y1 = -17.975
+</b></pre>]]></Snippet>
+      <styleUrl>#gauge_style</styleUrl>
+      <ExtendedData>
+        <Data name="pngfile">
+          <value>gauge32412fig300.png</value>
+        </Data>
+        <Data name="t1">
+          <value>0</value>
+        </Data>
+        <Data name="t2">
+          <value>1e+10</value>
+        </Data>
+        <Data name="x1">
+          <value>-86.392</value>
+        </Data>
+        <Data name="y1">
+          <value>-17.975</value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>  -86.3920   -17.9750     0.0000</coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>

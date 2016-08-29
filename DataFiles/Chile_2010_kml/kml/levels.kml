@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Folder>
+      <name>Level 1</name>
+      <NetworkLink>
+        <name>Frames</name>
+        <Link>
+          <href>levels/level_01.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <Folder>
+      <name>Level 2</name>
+      <NetworkLink>
+        <name>Frames</name>
+        <Link>
+          <href>levels/level_02.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+    <Folder>
+      <name>Level 3</name>
+      <NetworkLink>
+        <name>Frames</name>
+        <Link>
+          <href>levels/level_03.kml</href>
+        </Link>
+      </NetworkLink>
+    </Folder>
+  </Document>
+</kml>

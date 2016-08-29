@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Style id="patchborder">
+      <LineStyle>
+        <color>FF000000</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>00000000</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>Grid 2</name>
+      <visibility>1</visibility>
+      <styleUrl>#patchborder</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-120.0000,-11.0000,0.0000
+-115.0000,-11.0000,0.0000
+-115.0000,-2.0000,0.0000
+-120.0000,-2.0000,0.0000
+-120.0000,-11.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Grid 3</name>
+      <visibility>1</visibility>
+      <styleUrl>#patchborder</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-120.0000,-20.0000,0.0000
+-115.0000,-20.0000,0.0000
+-115.0000,-11.0000,0.0000
+-120.0000,-11.0000,0.0000
+-120.0000,-20.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Grid 4</name>
+      <visibility>1</visibility>
+      <styleUrl>#patchborder</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-115.0000,-7.0000,0.0000
+-108.0000,-7.0000,0.0000
+-108.0000,-3.0000,0.0000
+-115.0000,-3.0000,0.0000
+-115.0000,-7.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Grid 5</name>
+      <visibility>1</visibility>
+      <styleUrl>#patchborder</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-115.0000,-3.0000,0.0000
+-106.0000,-3.0000,0.0000
+-106.0000,0.0000,0.0000
+-115.0000,0.0000,0.0000
+-115.0000,-3.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Grid 6</name>
+      <visibility>1</visibility>
+      <styleUrl>#patchborder</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-115.0000,-16.0000,0.0000
+-113.0000,-16.0000,0.0000
+-113.0000,-10.0000,0.0000
+-115.0000,-10.0000,0.0000
+-115.0000,-16.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+    <Placemark>
+      <name>Grid 7</name>
+      <visibility>1</visibility>
+      <styleUrl>#patchborder</styleUrl>
+      <Polygon>
+        <tessellate>1</tessellate>
+        <altitudeMode>clampToGround</altitudeMode>
+        <outerBoundaryIs>
+          <LinearRing>
+            <coordinates>
+-115.0000,-10.0000,0.0000
+-111.0000,-10.0000,0.0000
+-111.0000,-7.0000,0.0000
+-115.0000,-7.0000,0.0000
+-115.0000,-10.0000,0.0000
+</coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

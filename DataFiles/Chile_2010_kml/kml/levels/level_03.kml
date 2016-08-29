@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <NetworkLink>
+      <name>Frame 0000</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T06:34:00+03:00</begin>
+        <end>2010-02-27T07:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0000.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0001</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T07:04:00+03:00</begin>
+        <end>2010-02-27T07:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0001.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0002</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T07:34:00+03:00</begin>
+        <end>2010-02-27T08:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0002.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0003</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T08:04:00+03:00</begin>
+        <end>2010-02-27T08:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0003.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0004</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T08:34:00+03:00</begin>
+        <end>2010-02-27T09:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0004.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0005</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T09:04:00+03:00</begin>
+        <end>2010-02-27T09:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0005.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0006</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T09:34:00+03:00</begin>
+        <end>2010-02-27T10:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0006.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0007</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T10:04:00+03:00</begin>
+        <end>2010-02-27T10:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0007.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0008</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T10:34:00+03:00</begin>
+        <end>2010-02-27T11:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0008.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0009</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T11:04:00+03:00</begin>
+        <end>2010-02-27T11:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0009.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0010</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T11:34:00+03:00</begin>
+        <end>2010-02-27T12:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0010.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0011</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T12:04:00+03:00</begin>
+        <end>2010-02-27T12:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0011.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0012</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T12:34:00+03:00</begin>
+        <end>2010-02-27T13:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0012.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0013</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T13:04:00+03:00</begin>
+        <end>2010-02-27T13:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0013.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0014</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T13:34:00+03:00</begin>
+        <end>2010-02-27T14:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0014.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0015</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T14:04:00+03:00</begin>
+        <end>2010-02-27T14:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0015.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0016</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T14:34:00+03:00</begin>
+        <end>2010-02-27T15:04:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0016.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0017</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T15:04:00+03:00</begin>
+        <end>2010-02-27T15:34:00+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0017.kml</href>
+      </Link>
+    </NetworkLink>
+    <NetworkLink>
+      <name>Frame 0018</name>
+      <visibility>1</visibility>
+      <TimeSpan>
+        <begin>2010-02-27T15:34:00+03:00</begin>
+        <end>2010-02-27T16:02:25+03:00</end>
+      </TimeSpan>
+      <Link>
+        <href>level_03/level_03_0018.kml</href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
