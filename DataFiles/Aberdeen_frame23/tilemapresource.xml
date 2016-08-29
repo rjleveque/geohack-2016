@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>frame0023fig1.vrt</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:4326</SRS>
+      <BoundingBox minx="-123.83000000000000" miny="46.95000000000000" maxx="-123.80000000000000" maxy="46.98000000000000"/>
+      <Origin x="-123.83000000000000" y="46.95000000000000"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="geodetic">
+        <TileSet href="13" units-per-pixel="0.00008583068848" order="13"/>
+        <TileSet href="14" units-per-pixel="0.00004291534424" order="14"/>
+        <TileSet href="15" units-per-pixel="0.00002145767212" order="15"/>
+      </TileSets>
+    </TileMap>
+    

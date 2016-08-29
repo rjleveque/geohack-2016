@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <kml xmlns="http://www.opengis.net/kml/2.2">
+      <Document>
+        <name>frame0023fig1.vrt</name>
+        <description></description>
+        <Style>
+          <ListStyle id="hideChildren">
+            <listItemType>checkHideChildren</listItemType>
+          </ListStyle>
+        </Style>
+        <NetworkLink>
+          <name>13/1278/3116.png</name>
+          <Region>
+            <LatLonAltBox>
+              <north>46.97753906250000</north>
+              <south>46.93359375000000</south>
+              <east>-123.79394531250000</east>
+              <west>-123.83789062500000</west>
+            </LatLonAltBox>
+            <Lod>
+              <minLodPixels>128</minLodPixels>
+              <maxLodPixels>-1</maxLodPixels>
+            </Lod>
+          </Region>
+          <Link>
+            <href>13/1278/3116.kml</href>
+            <viewRefreshMode>onRegion</viewRefreshMode>
+            <viewFormat/>
+          </Link>
+        </NetworkLink>
+    
+        <NetworkLink>
+          <name>13/1278/3117.png</name>
+          <Region>
+            <LatLonAltBox>
+              <north>47.02148437500000</north>
+              <south>46.97753906250000</south>
+              <east>-123.79394531250000</east>
+              <west>-123.83789062500000</west>
+            </LatLonAltBox>
+            <Lod>
+              <minLodPixels>128</minLodPixels>
+              <maxLodPixels>-1</maxLodPixels>
+            </Lod>
+          </Region>
+          <Link>
+            <href>13/1278/3117.kml</href>
+            <viewRefreshMode>onRegion</viewRefreshMode>
+            <viewFormat/>
+          </Link>
+        </NetworkLink>
+          </Document>
+    </kml>
+    
