@@ -1,28 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom" xmlns="http://www.opengis.net/kml/2.2">
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns="http://www.opengis.net/kml/2.2">
   <Document>
-    <Style id="folderStyle">
-      <ListStyle>
-        <listItemType>radioFolder</listItemType>
-      </ListStyle>
-    </Style>
-    <Folder>
-      <name>Grids</name>
-      <open>1</open>
       <GroundOverlay>
-        <name>&lt;built-in method f of mtrand.RandomState object at 0x1087cd350&gt;</name>
-        <visibility>1</visibility>
+        <name>testfig.png</name>
         <Icon>
           <href>testfig.png</href>
         </Icon>
         <LatLonBox>
-          <north>46.0</north>
-          <south>49.0000000001</south>
-          <east>-122.0</east>
-          <west>-126.0</west>
+          <north>49.000000</north>
+          <south>46.000000</south>
+          <east>-122.000000</east>
+          <west>-126.000000</west>
         </LatLonBox>
       </GroundOverlay>
-      <styleUrl>#folderStyle</styleUrl>
-    </Folder>
-  </Document>
+   </Document>
 </kml>

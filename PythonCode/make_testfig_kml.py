@@ -5,8 +5,6 @@ Not working properly.
 """
 
 from pylab import *
-from lxml import etree
-from pykml.factory import KML_ElementMaker as KML
 
 # load sample data -- download etopo1 DEM if not already here:
 
@@ -67,51 +65,33 @@ png_file = fname + '.png'
 plt.savefig(fname, transparent=True, bbox_inches='tight', \
             pad_inches=0,dpi=kml_dpi)
 
-print "Created ",fname
+print "Created %s " % png_file
 
 
 # make kml file:
 
-print "Creating %s.kml" % fname
 
-kml_doc = KML.kml(KML.Document())
-kml_doc.Document.append(KML.Style(
-KML.ListStyle(
-    KML.listItemType("radioFolder")),id="folderStyle"))  # "radioFolder" <--> "check"
+text = """<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:atom="http://www.w3.org/2005/Atom"
+xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+      <GroundOverlay>
+        <name>%s.png</name>
+        <Icon>
+          <href>%s.png</href>
+        </Icon>
+        <LatLonBox>
+          <north>%9.6f</north>
+          <south>%9.6f</south>
+          <east>%9.6f</east>
+          <west>%9.6f</west>
+        </LatLonBox>
+      </GroundOverlay>
+   </Document>
+</kml>
+""" % (fname,fname,y2,y1,x2,x1)
 
-kml_doc.Document.append(KML.Folder(
-    KML.name("Grids"),
-    KML.open(1)))
-
-
-is_vis = 1
-
-print "     Creating KML entry for %s" % png_file
-go = KML.GroundOverlay(KML.name(f),
-                       KML.visibility(is_vis),   # Only show first plot
-                       KML.Icon(
-                           KML.href(png_file)),
-                       KML.LatLonBox(
-                           KML.north(y1),
-                           KML.south(y2),
-                           KML.east(x2),
-                           KML.west(x1)))
-is_vis = 0
-
-kml_doc.Document.Folder.append(go)
-
-# Add style (check box or radio button)
-kml_doc.Document.Folder.append(KML.styleUrl("#folderStyle"))
-
-
-# --------------------------------------------
-# Create the file <fname>.kml
-# --------------------------------------------
-docfile = open("%s.kml" % fname,'w')
-docfile.write('<?xml version="1.0" encoding="UTF-8"?>\n')
-
-kml_text = etree.tostring(etree.ElementTree(kml_doc),pretty_print=True)
-docfile.write(kml_text)
-
-docfile.close()
-
+kml_file = open('%s.kml' % fname, 'w')
+kml_file.write(text)
+kml_file.close()
+print "Created %s.kml" % fname
